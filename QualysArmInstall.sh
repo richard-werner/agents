@@ -1,4 +1,4 @@
-sudo installer -pkg "/users/QualysCloudAgentArm.pkg" -target /
+sudo installer -pkg "/users/TempInstalls/QualysCloudAgentArm.pkg" -target /
 
 echo 'Package File Install Step Complete'
 

@@ -1,8 +1,3 @@
-#!/bin/sh
-
-# This script will install Qualys for Arm Prossessors and Activate it
-
-
 sudo installer -pkg "/users/QualysCloudAgentArm.pkg" -target /
 
 echo 'Package File Install Step Complete'
